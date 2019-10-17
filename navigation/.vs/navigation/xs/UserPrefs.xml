@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{417B77EB-51C1-4AC4-B6B7-B4D3CF169D93}|Default">
   <MonoDevelop.Ide.ItemProperties.navigation.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="navigation/MyPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="navigation/MainPage.xaml.cs">
     <Files>
       <File FileName="navigation/MainPage.xaml" Line="12" Column="28" />
       <File FileName="navigation.iOS/Info.plist" />
-      <File FileName="navigation/App.xaml.cs" />
-      <File FileName="navigation/MainPage.xaml.cs" />
+      <File FileName="navigation/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="navigation/MainPage.xaml.cs" Line="1" Column="1" />
       <File FileName="navigation/MyPage.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
