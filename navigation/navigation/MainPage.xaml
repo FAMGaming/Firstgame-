@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="navigation.MainPage"
+BackgroundColor="accent">
+ <ContentPage.Content>
+     <StackLayout Margin="20,20,20,20" VerticalOptions="Center">
+
+
+<Button x:Name="omthird" Text="i"
+   HeightRequest="700" 
+   TextColor="yellow"
+   FontSize="60"
+   Clicked="omthird_clicked">
+</Button> 
+     <StackLayout>
+
+<Button x:Name="bntsecond" Text="Börja spelet"
+   HeightRequest="700" 
+   TextColor="yellow"
+   FontSize="60"
+   Clicked="bntsecond_clicked">
+</Button>    
+   </StackLayout>
+  </StackLayout>
+ </ContentPage.Content>
+</ContentPage>

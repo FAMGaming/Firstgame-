@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{417B77EB-51C1-4AC4-B6B7-B4D3CF169D93}|Default">
+  <MonoDevelop.Ide.ItemProperties.navigation.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="navigation/MyPage.xaml">
+    <Files>
+      <File FileName="navigation/MainPage.xaml" Line="12" Column="28" />
+      <File FileName="navigation.iOS/Info.plist" />
+      <File FileName="navigation/App.xaml.cs" />
+      <File FileName="navigation/MainPage.xaml.cs" />
+      <File FileName="navigation/MyPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="navigation" expanded="True">
+            <Node name="navigation" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="navigation.Android" expanded="True" />
+            <Node name="navigation.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.navigation FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.navigation.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8D00EE41-DD57-45D2-A60C-1D4F27EBBF02" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

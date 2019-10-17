@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexanderjansson/Projects/navigation/navigation.iOS/navigation.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/alexanderjansson/Projects/navigation/navigation.iOS/navigation.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexanderjansson/Projects/navigation/navigation.iOS/navigation.iOS.csproj",
+        "projectName": "navigation.iOS",
+        "projectPath": "/Users/alexanderjansson/Projects/navigation/navigation.iOS/navigation.iOS.csproj",
+        "packagesPath": "/Users/alexanderjansson/.nuget/packages/",
+        "outputPath": "/Users/alexanderjansson/Projects/navigation/navigation.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/alexanderjansson/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xam.Plugins.Forms.ImageCircle": {
+              "target": "Package",
+              "version": "[3.0.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
