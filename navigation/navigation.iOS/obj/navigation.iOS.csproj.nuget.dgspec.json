@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexanderjansson/Projects/navigation/navigation.iOS/navigation.iOS.csproj": {}
+    "/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.iOS/navigation.iOS.csproj": {}
   },
   "projects": {
-    "/Users/alexanderjansson/Projects/navigation/navigation.iOS/navigation.iOS.csproj": {
+    "/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.iOS/navigation.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexanderjansson/Projects/navigation/navigation.iOS/navigation.iOS.csproj",
+        "projectUniqueName": "/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.iOS/navigation.iOS.csproj",
         "projectName": "navigation.iOS",
-        "projectPath": "/Users/alexanderjansson/Projects/navigation/navigation.iOS/navigation.iOS.csproj",
+        "projectPath": "/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.iOS/navigation.iOS.csproj",
         "packagesPath": "/Users/alexanderjansson/.nuget/packages/",
-        "outputPath": "/Users/alexanderjansson/Projects/navigation/navigation.iOS/obj/",
+        "outputPath": "/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [

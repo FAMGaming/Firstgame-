@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexanderjansson/Projects/navigation/navigation.Android/navigation.Android.csproj": {}
+    "/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.Android/navigation.Android.csproj": {}
   },
   "projects": {
-    "/Users/alexanderjansson/Projects/navigation/navigation.Android/navigation.Android.csproj": {
+    "/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.Android/navigation.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexanderjansson/Projects/navigation/navigation.Android/navigation.Android.csproj",
+        "projectUniqueName": "/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.Android/navigation.Android.csproj",
         "projectName": "navigation.Android",
-        "projectPath": "/Users/alexanderjansson/Projects/navigation/navigation.Android/navigation.Android.csproj",
+        "projectPath": "/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.Android/navigation.Android.csproj",
         "packagesPath": "/Users/alexanderjansson/.nuget/packages/",
-        "outputPath": "/Users/alexanderjansson/Projects/navigation/navigation.Android/obj/",
+        "outputPath": "/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [

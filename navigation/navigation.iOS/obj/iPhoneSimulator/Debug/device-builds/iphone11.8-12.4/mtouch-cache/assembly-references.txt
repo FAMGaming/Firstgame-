@@ -1,4 +1,4 @@
-/Users/alexanderjansson/Projects/navigation/navigation.iOS/bin/iPhoneSimulator/Debug/navigation.iOS.exe
+/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.iOS/bin/iPhoneSimulator/Debug/navigation.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/mscorlib.dll
 /Users/alexanderjansson/.nuget/packages/xamarin.forms/4.2.0.709249/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/netstandard.dll

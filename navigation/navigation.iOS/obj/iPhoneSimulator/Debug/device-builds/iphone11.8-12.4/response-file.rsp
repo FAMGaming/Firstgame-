@@ -1,5 +1,5 @@
---cache=/Users/alexanderjansson/Projects/navigation/navigation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/mtouch-cache
---sim=/Users/alexanderjansson/Projects/navigation/navigation.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/navigation.iOS.app
+--cache=/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/mtouch-cache
+--sim=/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/navigation.iOS.app
 --executable=navigation.iOS
  --debug
  --sgen-conc
@@ -10,7 +10,7 @@
  --aot-options=-O=-float32
  --http-message-handler=NSUrlSessionHandler
  --abi=x86_64
---symbollist=/Users/alexanderjansson/Projects/navigation/navigation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/mtouch-symbols.list
+--symbollist=/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/mtouch-symbols.list
  --dsym=no
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
@@ -204,5 +204,5 @@
 -r=/Users/alexanderjansson/.nuget/packages/xamarin.forms/4.2.0.709249/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/alexanderjansson/.nuget/packages/xamarin.forms/4.2.0.709249/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
  --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/alexanderjansson/Projects/navigation/navigation.iOS/bin/iPhoneSimulator/Debug/navigation.iOS.exe
+--root-assembly=/Users/alexanderjansson/Desktop/Github/Firstgame-/navigation/navigation.iOS/bin/iPhoneSimulator/Debug/navigation.iOS.exe
  
